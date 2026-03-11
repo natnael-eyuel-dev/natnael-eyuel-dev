@@ -5,10 +5,6 @@ I’m a **Software Engineering student at Addis Ababa University** with a strong
 ---
 
 ## 🚀 Current Journey
-
-* **AI Talent Intern | iCog Labs**
-  Developing practical skills in AI/ML while contributing to innovative, real-world projects.
-
 * **Member | A2SV (Google-backed, 2025–Present)**
   Collaborating on AI-powered solutions designed to address societal challenges.
   Actively learning, experimenting, and pushing forward advancements in AI-driven technologies.
@@ -17,7 +13,8 @@ I’m a **Software Engineering student at Addis Ababa University** with a strong
 
 ## 💻 Technical Skills
 
-* **Backend Development:** Node.js (Express, NestJS), Go
+* **Backend Development:** Node.js (Express, NestJS), Go, Rust
+* **Frontend Development:** React, Next.js, Solid.js
 * **Cloud & DevOps:** Docker, Kubernetes, CI/CD pipelines
 * **Core Interests:** Artificial Intelligence, Machine Learning, Scalable System Design
 
