@@ -1,35 +1,34 @@
-# 👋 Hi, I’m **Natnael Eyuel**
+<div align="center">
 
-I’m a **Software Engineering student at Addis Ababa University** with a strong passion for **Artificial Intelligence (AI), Machine Learning (ML), and AI-driven solutions**. I enjoy building impactful projects at the intersection of technology and real-world challenges, with a focus on scalable backend systems and intelligent applications.
+<pre>
+<div align="center">
+<img src="gth-prf.jpg" width="80" height="80" alt="Natnael Eyuel"/>
+</div>
+$ whoami
 
----
+<b>Natnael Eyuel</b>
+Senior Full-Stack Engineer · AI Systems
 
-## 🚀 Current Journey
-* **Member | A2SV (Google-backed, 2025–Present)**
-  Collaborating on AI-powered solutions designed to address societal challenges.
-  Actively learning, experimenting, and pushing forward advancements in AI-driven technologies.
+Next.js · React · SolidJS · TypeScript
+Go · Gin · Node.js · Express · NestJS · Rust
+PostgreSQL · Supabase · MongoDB · S3 · Neo4j · Redis
+LLM · RAG · LangChain · Docker · CI/CD
 
----
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr>
+<td align="left">
+<a href="https://www.linkedin.com/in/natnael-eyuel/">
+&nbsp;&nbsp;<img src="https://img.shields.io/badge/LinkedIn-Connect-FFD400?style=flat-square&labelColor=000000&logo=linkedin&logoColor=white" alt="LinkedIn">&nbsp;&nbsp;
+</a>
+</td>
+<td align="right">
+<a href="mailto:natnaeleyuel77@gmail.com">
+&nbsp;&nbsp;<img src="https://img.shields.io/badge/Email-natnaeleyuel77%40gmail.com-FFD400?style=flat-square&labelColor=000000&logo=gmail&logoColor=white" alt="Email">&nbsp;&nbsp;
+</a>
+</td>
+</tr>
+</table>
 
-## 💻 Technical Skills
+</pre>
 
-* **Backend Development:** Node.js (Express, NestJS), Go, Rust
-* **Frontend Development:** React, Next.js, Solid.js
-* **Cloud & DevOps:** Docker, Kubernetes, CI/CD pipelines
-* **Core Interests:** Artificial Intelligence, Machine Learning, Scalable System Design
-
----
-
-## 🌟 What I’m Working On
-
-* Building reliable and efficient backend systems.
-* Exploring AI/ML applications that solve real-world problems.
-* Continuously learning and experimenting with **cloud-native** and **AI-driven** technologies.
-
----
-
-Check out my work on my [main GitHub account](https://github.com/natnael-eyuel-dev), with more projects available on my [secondary account](https://github.com/natnaeleyuel).
-
----
-
-💻 Always happy to connect, share ideas, and collaborate on exciting projects.
+</div>
